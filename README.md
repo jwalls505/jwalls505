@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jesse
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Spring/Angular Frameworks
-- 💞️ I’m looking to collaborate on any project I can further learn code and have fun on!
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me ...
 
 <!---
